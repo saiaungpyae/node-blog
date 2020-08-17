@@ -15,7 +15,9 @@ For development, you will only need Node.js (v12+), installed in your environeme
 ## Running the project
 
     $ npm run dev
-
+    
+  Open browser and go to http://localhost:3000
+ 
 ## Running sample seed data
 
     $ npm run seed
